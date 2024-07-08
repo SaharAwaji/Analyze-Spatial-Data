@@ -1,7 +1,6 @@
 # Wingsuit Skydives
 
-<img src="#
-  https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" alt="Skydives" width="200"/>
+<img src="https://github.com/SaharAwaji/Analyze-Spatial-Data/blob/main/skydiving%20.jpeg" alt="Skydives" width="200"/>
 
 This project analyzes spatial data from Dr. Smith's wingsuiting. The goal of the project is to help Dr. Smith become a better wingsuit pilot, 
 and improve the data set where the fields can be altered. 
